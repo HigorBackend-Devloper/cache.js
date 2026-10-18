@@ -1,2 +1,1 @@
-# cache-js
 # cache.js
